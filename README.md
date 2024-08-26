@@ -3,7 +3,7 @@ Final group project with Sophie Berchtold, Sharon Bures, and Cara Grimm
 
 Authors: Sophie Berchtold, Sharon Bures, and Cara Grimm
 
-Course: Deep Learning for the Social Sciences (SS 2024)
+Course: Deep Learning for Social Sciences (SS 2024)
 
 ## Project Overview
 This Project investigates the application of GNNs for detecting fake news by analyzing the relationships and structures within social media data. The Project is documented in the deep-learning.ipynb notebook.
