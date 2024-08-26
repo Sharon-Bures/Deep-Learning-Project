@@ -10,7 +10,7 @@ This Project investigates the application of GNNs for detecting fake news by ana
 
 ## Repository Structure
 The project data and outputs are organized in following structure:
--  nx_network_data: contains the used GossipCop dataset (labeled fake and real news from tweets + network of retweets of the original tweet)
+-  nx_network_data: contains the used GossipCop dataset (labeled fake and real news from tweets and network of retweets of the original tweet)
 -  Training GCN: contains the training data of the GCN model (loss curves and training results)
 -  Training GAT: contains the training data of the GAT model (loss curves and training results)
 
